@@ -11,7 +11,7 @@
     <string name="esptouch_message_wifi_connection">Please connect Wi-Fi first.</string>
     <string name="esptouch_message_wifi_frequency">Current Wi-Fi connection is 5G, but the device just support 2.4G.</string>
 
-    <string name="esptouch1_title">EspTouch</string>
+    <string name="esptouch1_title">Power Pergola Installer</string>
     <string name="esptouch1_about_version">EspTouch Version: %s</string>
     <string name="esptouch1_ssid_title">SSID: </string>
     <string name="esptouch1_bssid_title">BSSID: </string>
